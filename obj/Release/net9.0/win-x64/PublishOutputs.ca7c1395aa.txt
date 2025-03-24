@@ -1,0 +1,6 @@
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\appsettings.json
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\Converse.pdb
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\win-x64\publish\Converse.exe

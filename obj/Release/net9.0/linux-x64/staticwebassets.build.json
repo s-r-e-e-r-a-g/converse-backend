@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "roSrc9q8CobpP28gH94J1qWqPE8UIMBCIOq3HgxHYo8=",
+  "Source": "Converse",
+  "BasePath": "_content/Converse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Converse\\wwwroot",
+      "Source": "Converse",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\",
+      "BasePath": "_content/Converse",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\7j6ryuibuc-7e3ckfxcfm.gz",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "js/app#[.{fingerprint=7e3ckfxcfm}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2j5oy4ooxd",
+      "Integrity": "AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\woszm0ap2y-cal4xigcvv.gz",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "index#[.{fingerprint=cal4xigcvv}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g3uqkkjpx8",
+      "Integrity": "3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\ybr8eei5b1-g4q9zxvt6k.gz",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "css/styles#[.{fingerprint=g4q9zxvt6k}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pl1ktgmx47",
+      "Integrity": "HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4q9zxvt6k",
+      "Integrity": "gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cal4xigcvv",
+      "Integrity": "xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js",
+      "SourceId": "Converse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\",
+      "BasePath": "_content/Converse",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7e3ckfxcfm",
+      "Integrity": "L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\ybr8eei5b1-g4q9zxvt6k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\ybr8eei5b1-g4q9zxvt6k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.g4q9zxvt6k.css",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\ybr8eei5b1-g4q9zxvt6k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4q9zxvt6k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.g4q9zxvt6k.css",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4q9zxvt6k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gENdhZGI1MkCwrt3EWHyZ4QA34ZqbQl3hYZ1wsKiPsw="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.g4q9zxvt6k.css.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\ybr8eei5b1-g4q9zxvt6k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4q9zxvt6k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HWJRhzS2D6wIc+pLet9kEUdZ/DjbuyZrVCxbITLKC6c="
+        }
+      ]
+    },
+    {
+      "Route": "index.cal4xigcvv.html",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\woszm0ap2y-cal4xigcvv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001642036125"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "608"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cal4xigcvv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw="
+        }
+      ]
+    },
+    {
+      "Route": "index.cal4xigcvv.html",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cal4xigcvv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw="
+        }
+      ]
+    },
+    {
+      "Route": "index.cal4xigcvv.html.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\woszm0ap2y-cal4xigcvv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cal4xigcvv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\woszm0ap2y-cal4xigcvv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001642036125"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "608"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xI2HfuHQgE1gtWtQ3Fzt7P5R7216LPsMh8d5dhadGtw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\woszm0ap2y-cal4xigcvv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3O4r7PSUMrws/w7fXCHmxOfhgGOfPAxxUzKimMjrE7E="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.7e3ckfxcfm.js",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\7j6ryuibuc-7e3ckfxcfm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000798722045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e3ckfxcfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.7e3ckfxcfm.js",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e3ckfxcfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.7e3ckfxcfm.js.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\7j6ryuibuc-7e3ckfxcfm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e3ckfxcfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\7j6ryuibuc-7e3ckfxcfm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000798722045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L9w7zpzaXpp0qbvpzWeYu7Huh4lF3Nfj2xq42l3q9pA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "C:\\Users\\wazin\\My files\\Apps\\Converse\\obj\\Release\\net9.0\\linux-x64\\compressed\\7j6ryuibuc-7e3ckfxcfm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 12:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlxoiSm0OIPqbTpRq8oqtFAwQQ7eiYotehnKF+LiO0M="
+        }
+      ]
+    }
+  ]
+}

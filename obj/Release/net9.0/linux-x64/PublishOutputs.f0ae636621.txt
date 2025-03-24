@@ -1,0 +1,4 @@
+C:\Users\wazin\My files\Apps\Converse\publish\appsettings.Development.json
+C:\Users\wazin\My files\Apps\Converse\publish\appsettings.json
+C:\Users\wazin\My files\Apps\Converse\publish\Converse.pdb
+C:\Users\wazin\My files\Apps\Converse\publish\Converse

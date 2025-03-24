@@ -1,0 +1,6 @@
+@Converse_HostAddress = http://localhost:5273
+
+GET {{Converse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\linux-x64\publish\appsettings.Development.json
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\linux-x64\publish\appsettings.json
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\linux-x64\publish\Converse.pdb
+C:\Users\wazin\My files\Apps\Converse\bin\Release\net9.0\linux-x64\publish\Converse

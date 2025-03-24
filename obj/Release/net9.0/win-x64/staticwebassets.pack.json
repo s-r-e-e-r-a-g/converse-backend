@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\wazin\\My files\\Apps\\Converse\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.Converse.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.Converse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.build.Converse.props",
+      "PackagePath": "build\\Converse.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Converse.props",
+      "PackagePath": "buildMultiTargeting\\Converse.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Converse.props",
+      "PackagePath": "buildTransitive\\Converse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

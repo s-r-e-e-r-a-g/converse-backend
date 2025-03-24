@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converse", "Converse.csproj", "{ED895D31-3372-ABC8-A3A1-39B8B9A826AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED895D31-3372-ABC8-A3A1-39B8B9A826AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED895D31-3372-ABC8-A3A1-39B8B9A826AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED895D31-3372-ABC8-A3A1-39B8B9A826AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED895D31-3372-ABC8-A3A1-39B8B9A826AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08D5E43-B7B4-44A7-99CF-8822279BA06A}
+	EndGlobalSection
+EndGlobal
